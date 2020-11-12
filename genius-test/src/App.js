@@ -11,12 +11,13 @@ class App extends Component {
     images,
     score: 0,
     highScore: 0,
-    clicked: [],
+    chosen: [],
     text: 'Test your memory!'
   };
 
   handleClick = id => {
-    if(this.state.clicked.includes(id)) {
+    // Incorrect Guess
+    if(this.state.chosen.includes(id)) {
       this.setState({ text: "You lost!" });
       if(this.state.highScore < this.state.score) {
         this.setState({
@@ -25,20 +26,23 @@ class App extends Component {
       }
       // Resetting Game
       this.resetGame();
+    // Correct guess
     } else {
       this.setState({ text: 'You guessed correctly!' })
       this.setState({ score: this.state.score + 1 })
-      this.setState({ clicked: [...this.state.clicked, id]})
+      this.setState({ chosen: [...this.state.chosen, id]})
     };
     const imageArray = this.state.images;
     this.shuffleCards(imageArray);
   };
 
+  // Resets Score and chosen array
   resetGame = () => {
     this.setState({ score: 0 })
-    this.setState({ clicked: [] })
+    this.setState({ chosen: [] })
   }
 
+  // Shuffling cards
   shuffleCards = imageArray => {
     for(let i = 0; i < imageArray.length; i++) {
       let randNum = Math.floor(Math.random() * (i+1));

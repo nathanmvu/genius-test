@@ -1,7 +1,6 @@
 import React from "react";
 import "./Card.css"
 
-// Passing props for image and function that determins if image was clicked before
 function Card(props){
   return (
     <div className="row">

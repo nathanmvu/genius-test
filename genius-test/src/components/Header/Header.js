@@ -1,7 +1,6 @@
 import React from "react";
 import "./Header.css"
 
-// Passing props for image and function that determins if image was clicked before
 function Header(){
   return (
     <div class="jumbotron jumbotron-fluid">
