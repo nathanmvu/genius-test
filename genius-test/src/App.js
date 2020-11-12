@@ -11,7 +11,8 @@ class App extends Component {
     images,
     score: 0,
     highScore: 0,
-    clicked: []
+    clicked: [],
+    text: 'Test your memory!'
   };
 
   handleClick = id => {
@@ -25,6 +26,7 @@ class App extends Component {
       // Resetting Game
       this.resetGame();
     } else {
+      this.setState({ text: 'You guessed correctly!' })
       this.setState({ score: this.state.score + 1 })
       this.setState({ clicked: [...this.state.clicked, id]})
     };
@@ -49,7 +51,11 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Navbar score={this.state.score} highScore={this.state.highScore} />
+        <Navbar 
+          text={this.state.text}
+          score={this.state.score} 
+          highScore={this.state.highScore} 
+        />
         <Header />
         <Wrapper>
           {this.state.images.map(image => (
