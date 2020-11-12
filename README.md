@@ -2,7 +2,7 @@
 Not actually a genius test but test your memory with this architecture themed clicking game. Click a building to earn a point but try not to click the same building twice or else the game is lost and score will be reset.
 
 ## Description
-This is a React based application which shuffles images of some of my favorite buildings from some of my favorite architects (Le Corbusier, Philip Glasshouse, Ludwig Mies van Der Rohe, etc...) on the page which can be clicked to earn points. The application uses React in order to render components onto the page with the appropriate images and text.
+This is a React based application which shuffles images of some of my favorite buildings from some of my favorite architects (Le Corbusier, Philip Johnson, Ludwig Mies van der Rohe, etc...) on the page which can be clicked to earn points. The application uses React in order to render components onto the page with the appropriate images and text.
 
 ## Table of Contents
 * [Getting Started](#getting-started)
