@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Glasshouse-philip-johnson.jpg"
+  },
+  {
+    "id": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/VillaSavoye.jpg"
+  },
+  {
+    "id": 3,
+    "image": "https://static.dezeen.com/uploads/2018/10/bauhaus_weimar_school_walter_gropius_dezeen_2364_col_6.jpg"
+  },
+  {
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/NewYorkSeagram_04.30.2008.JPG/1200px-NewYorkSeagram_04.30.2008.JPG"
+  },
+  {
+    "id": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Geisel_Library%2C_UCSD.jpg"
+  },
+  {
+    "id": 6,
+    "image": "https://www.salk.edu/wp-content/uploads/2015/10/0X8C0017_8_9_tonemapped_p-_720x480_72_RGB.jpg"
+  },
+  {
+    "id": 7,
+    "image": "https://images.adsttc.com/media/images/5445/d150/e58e/ce18/0a00/0074/large_jpg/1288461887-img004.jpg?1413861705"
+  },
+  {
+    "id": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Wfm_stata_center.jpg"
+  },
+  {
+    "id": 9,
+    "image": "https://images.dwell.com/photos-6166648977860894720/6566485711244447744-large/pictured-is-the-rear-of-the-farnsworth-house-designed-by-ludwig-mies-van-der-rohe-the-homes-structure-is-based-on-three-horizontal-steel-planes-lifted-out-of-nature.jpg"
+  },
+  {
+    "id": 10,
+    "image": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/02/kimbell-museum-louis-kahn-side.jpg?ssl=1"
+  }
+]
