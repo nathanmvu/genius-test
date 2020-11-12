@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/nathanmvu/genius-test/static/css/main.64b9a951.chunk.css",
-    "main.js": "/nathanmvu/genius-test/static/js/main.4ac703b3.chunk.js",
-    "main.js.map": "/nathanmvu/genius-test/static/js/main.4ac703b3.chunk.js.map",
-    "runtime-main.js": "/nathanmvu/genius-test/static/js/runtime-main.bd04f341.js",
-    "runtime-main.js.map": "/nathanmvu/genius-test/static/js/runtime-main.bd04f341.js.map",
-    "static/js/2.07797688.chunk.js": "/nathanmvu/genius-test/static/js/2.07797688.chunk.js",
-    "static/js/2.07797688.chunk.js.map": "/nathanmvu/genius-test/static/js/2.07797688.chunk.js.map",
+    "main.js": "/nathanmvu/genius-test/static/js/main.efb9d87f.chunk.js",
+    "main.js.map": "/nathanmvu/genius-test/static/js/main.efb9d87f.chunk.js.map",
+    "runtime-main.js": "/nathanmvu/genius-test/static/js/runtime-main.ccddbebc.js",
+    "runtime-main.js.map": "/nathanmvu/genius-test/static/js/runtime-main.ccddbebc.js.map",
+    "static/js/2.561c75f3.chunk.js": "/nathanmvu/genius-test/static/js/2.561c75f3.chunk.js",
+    "static/js/2.561c75f3.chunk.js.map": "/nathanmvu/genius-test/static/js/2.561c75f3.chunk.js.map",
     "index.html": "/nathanmvu/genius-test/index.html",
     "static/css/main.64b9a951.chunk.css.map": "/nathanmvu/genius-test/static/css/main.64b9a951.chunk.css.map",
-    "static/js/2.07797688.chunk.js.LICENSE.txt": "/nathanmvu/genius-test/static/js/2.07797688.chunk.js.LICENSE.txt"
+    "static/js/2.561c75f3.chunk.js.LICENSE.txt": "/nathanmvu/genius-test/static/js/2.561c75f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd04f341.js",
-    "static/js/2.07797688.chunk.js",
+    "static/js/runtime-main.ccddbebc.js",
+    "static/js/2.561c75f3.chunk.js",
     "static/css/main.64b9a951.chunk.css",
-    "static/js/main.4ac703b3.chunk.js"
+    "static/js/main.efb9d87f.chunk.js"
   ]
 }
