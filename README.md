@@ -17,7 +17,7 @@ This is a React based application which shuffles images of some of my favorite b
 * [Deployed Link](https://nathanmvu.github.io/genius-test/)
 * [Usage Demo Video](https://drive.google.com/file/d/1EoGvoDANHZuKpPkAbq3lzhgNPmqd9Z39/view)
 
-![Demo GIF](./genius-test/public/img/demo.gif)
+![Demo GIF](./architecture-test/public/img/demo.gif)
 
 ## Installation
 To run the program, install it from the repository and then navigate to the App.js file in the src folder. In an integrated terminal run
