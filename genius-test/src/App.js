@@ -56,7 +56,7 @@ class App extends Component {
             <Card 
               id={image.id}
               image={image.image}
-              clickHandler={this.handleClick} 
+              handleClick={this.handleClick} 
             />
           ))}
         </Wrapper>
